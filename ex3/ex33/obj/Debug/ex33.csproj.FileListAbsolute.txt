@@ -1,0 +1,11 @@
+C:\Users\alex.msantos22\source\repos\ex33\ex33\bin\Debug\ex33.exe.config
+C:\Users\alex.msantos22\source\repos\ex33\ex33\bin\Debug\ex33.exe
+C:\Users\alex.msantos22\source\repos\ex33\ex33\bin\Debug\ex33.pdb
+C:\Users\alex.msantos22\source\repos\ex33\ex33\obj\Debug\ex33.csproj.AssemblyReference.cache
+C:\Users\alex.msantos22\source\repos\ex33\ex33\obj\Debug\ex33.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex.msantos22\source\repos\ex33\ex33\obj\Debug\ex33.Form1.resources
+C:\Users\alex.msantos22\source\repos\ex33\ex33\obj\Debug\ex33.Properties.Resources.resources
+C:\Users\alex.msantos22\source\repos\ex33\ex33\obj\Debug\ex33.csproj.GenerateResource.cache
+C:\Users\alex.msantos22\source\repos\ex33\ex33\obj\Debug\ex33.csproj.CoreCompileInputs.cache
+C:\Users\alex.msantos22\source\repos\ex33\ex33\obj\Debug\ex33.exe
+C:\Users\alex.msantos22\source\repos\ex33\ex33\obj\Debug\ex33.pdb
